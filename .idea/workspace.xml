@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e2e178-0518-4459-964f-9a64f6d3cd3b" name="Default Changelist" comment="úprava">
-      <change beforePath="$PROJECT_DIR$/2ITB/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ITB/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ITB" beforeDir="false" afterPath="$PROJECT_DIR$/2ITB" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631080583853</updated>
-      <workItem from="1631080585439" duration="3689000" />
+      <workItem from="1631080585439" duration="4308000" />
     </task>
     <task id="LOCAL-00001" summary="zkouška gitu">
       <created>1631081344946</created>
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631084497488</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="úprava">
+      <created>1631084627030</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1631084627030</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
