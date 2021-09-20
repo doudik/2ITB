@@ -30,7 +30,11 @@
         <td>Houska</td>
         <td>2ITB</td>
     </tr>
-
+    <tr>
+        <td>Vladimír</td>
+        <td>Beneš</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
