@@ -47,6 +47,11 @@
         <td>Beneš</td>
         <td>2ITB</td>
     </tr>
+<tr>
+        <td>Daniel</td>
+        <td>Chládek</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
