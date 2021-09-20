@@ -47,6 +47,11 @@
         <td>Beneš</td>
         <td>2ITB</td>
     </tr>
+    <tr>
+        <td>Michal</td>
+        <td>Novak</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
