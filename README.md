@@ -52,6 +52,11 @@
         <td>Novak</td>
         <td>2ITB</td>
     </tr>
+    <tr>
+        <td>Karel</td>
+        <td>Friedel</td>
+        <td>2ITB</td>
+  </tr>
 
 </table>
 </html>
