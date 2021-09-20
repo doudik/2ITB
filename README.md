@@ -1,6 +1,7 @@
 <html>
 <table>
     <tr>
+--
         <th>Jméno</th>
         <th>Přijmení</th>
         <th>Třída</th>
