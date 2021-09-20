@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class Plshelp
+{
+	public static void main(String[] args)
+	{
+		
+		List<String> mylist = new ArrayList<String>();
+		mylist.add("1");
+		mylist.add("2");
+		mylist.add("3");
+		mylist.add("4");
+
+		System.out.println( mylist);
+
+		
+		Collections.rotate(mylist, 2);
+
+		System.out.println(mylist);
+	}
+}
