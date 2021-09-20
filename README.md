@@ -57,6 +57,11 @@
         <td>Riedl</td>
         <td>2ITB</td>
     </tr>
+      <tr>
+        <td>Tomáš</td>
+        <td>Křepel</td>
+        <td>2ITB</td>
+    </tr>
 
 
 </tr>
