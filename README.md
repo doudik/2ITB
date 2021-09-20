@@ -25,6 +25,11 @@
         <td>Kučera</td>
         <td>2ITB</td>
     </tr>
+    <tr>
+        <td>Michal</td>
+        <td>Novák</td>
+        <td>2ITB</td>
+    </tr>
 
 
 </table>
