@@ -29,7 +29,10 @@
         <td>Matěj</td>
         <td>Houska</td>
         <td>2ITB</td>
-    </tr>
+  </tr>
+   <tr>
+        <td>Jakub</td>
+        <td>Boráň</td>
     <tr>
         <td>Vladimír</td>
         <td>Beneš</td>
