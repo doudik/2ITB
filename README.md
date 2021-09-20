@@ -1,4 +1,7 @@
 <html>
+<style>
+td{color: red;}
+</style>
 <table>
     <tr>
         <th>Jméno</th>
