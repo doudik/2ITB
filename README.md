@@ -19,13 +19,12 @@
         <td>Davyd</td>
         <td>Hadupyak</td>
         <td>2ITB</td>
-    </tr>
+  </tr>
     <tr>
         <td>Richard</td>
         <td>Kučera</td>
         <td>2ITB</td>
     </tr>
-
 
 
 </table>
