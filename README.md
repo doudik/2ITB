@@ -26,6 +26,11 @@
         <td>2ITB</td>
     </tr>
     <tr>
+        <td>Michal</td>
+        <td>Novák</td>
+        <td>2ITB</td>
+    </tr>
+    <tr>
         <td>Matěj</td>
         <td>Houska</td>
         <td>2ITB</td>
