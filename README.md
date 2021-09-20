@@ -58,5 +58,12 @@
         <td>2ITB</td>
     </tr>
 
+
+</tr>
+    <tr>
+        <td>Jiří</td>
+        <td>Brixi</td>
+        <td>2ITB</td>
+    </tr>
 </table>
 </html>
