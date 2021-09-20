@@ -57,6 +57,11 @@
         <td>Riedl</td>
         <td>2ITB</td>
     </tr>
+    <tr>
+        <td>Filip</td>
+        <td>Mariáš</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
