@@ -30,7 +30,19 @@
         <td>Novák</td>
         <td>2ITB</td>
     </tr>
-
+    <tr>
+        <td>Matěj</td>
+        <td>Houska</td>
+        <td>2ITB</td>
+  </tr>
+   <tr>
+        <td>Jakub</td>
+        <td>Boráň</td>
+    <tr>
+        <td>Vladimír</td>
+        <td>Beneš</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
