@@ -38,6 +38,11 @@
         <td>Beneš</td>
         <td>2ITB</td>
     </tr>
+<tr>
+        <td>Vilém</td>
+        <td>Franc</td>
+        <td>2ITB</td>
+    </tr>
 
 </table>
 </html>
