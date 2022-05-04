@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Pivovar_2ITB
 {
-    internal interface IPivo
+    internal class Pivo11
     {
-        //Interface pro výrobu piva
-        //TODO: Metody pro výrobu piva
-        int RychlostVyrobyPiva(int sec);
-       
+        //TODO dodělat pivo 11
     }
 }
