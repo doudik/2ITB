@@ -16,5 +16,16 @@ namespace Pivovar_2ITB
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Pivovar.PridejPivko("Pivo 10°");
+            label2.Text = Pivovar.pivoDic["10"].ToString();
+        }
     }
 }

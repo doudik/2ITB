@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pivovar_2ITB
 {
-     class Pivo10 : Pivo, IPivo
+     class Pivo10 : Pivo
     {
         public override void Recept()
         {
@@ -15,14 +15,11 @@ namespace Pivovar_2ITB
             kvasinky = 200f;
             slad = 110f;
             nazev = "Pivo 10°";
-            Pivovar.VyrobPivo(chmel, slad, kvasinky, voda, RychlostVyrobyPiva(5), nazev);
+            rychlostVyroby = 5;
+            Pivovar.VyrobPivo(chmel, slad, kvasinky, voda, nazev);
         }
-
-        public int RychlostVyrobyPiva(int sec)
-        {
-            rychlostVyroby = rnd.Next(2, sec);
-            return rychlostVyroby;
-        }
+        //Vyřešit problém se static voláním v timeru!
+       
 
         
     }

@@ -9,7 +9,7 @@ namespace Pivovar_2ITB
     internal class Pivovar
     {
         public int pocetPiva { get; set; }
-        static Dictionary<string, int> pivoDic = new Dictionary<string, int>()
+        public static Dictionary<string, int> pivoDic = new Dictionary<string, int>()
         {
             {"10", 0},
             {"11", 0},
@@ -24,7 +24,7 @@ namespace Pivovar_2ITB
                 PridejPivko(nazev);
             }
         }
-        static void PridejPivko(string nazev)
+        public static void PridejPivko(string nazev)
         {
             if (nazev == "Pivo 10°")
             {

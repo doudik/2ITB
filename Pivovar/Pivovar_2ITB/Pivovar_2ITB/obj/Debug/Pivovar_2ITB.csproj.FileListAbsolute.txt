@@ -1,0 +1,11 @@
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\bin\Debug\Pivovar_2ITB.exe.config
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\bin\Debug\Pivovar_2ITB.exe
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\bin\Debug\Pivovar_2ITB.pdb
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.csproj.SuggestedBindingRedirects.cache
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.Form1.resources
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.Properties.Resources.resources
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.csproj.GenerateResource.cache
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.exe
+C:\Users\miram\OneDrive\2ITB\2ITB\Pivovar\Pivovar_2ITB\Pivovar_2ITB\obj\Debug\Pivovar_2ITB.pdb

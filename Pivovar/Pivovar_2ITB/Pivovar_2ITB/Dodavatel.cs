@@ -8,5 +8,6 @@ namespace Pivovar_2ITB
 {
     internal class Dodavatel
     {
+        
     }
 }

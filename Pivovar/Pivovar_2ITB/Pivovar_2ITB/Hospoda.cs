@@ -8,5 +8,7 @@ namespace Pivovar_2ITB
 {
     internal class Hospoda
     {
+        int pocetLidi;
+
     }
 }
